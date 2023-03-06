@@ -5,11 +5,9 @@
 }
 
 .img{
-    height: 358px;
-    background-position: center;
-    background-size: cover;
-    padding-bottom: 390px;
-    padding-top: 50px;
+    height: fit-content;
+    width: 100%;
+    border-radius: 10px;
 }
 
 .active {
